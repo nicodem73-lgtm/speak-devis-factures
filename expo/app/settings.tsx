@@ -158,7 +158,7 @@ export default function SettingsScreen() {
           </View>
         </View>
 
-        <Text style={styles.version}>Version {Constants.expoConfig?.version ?? '1.1.2'}</Text>
+        <Text style={styles.version}>Version {Constants.expoConfig?.version ?? '1.1.3'}</Text>
       </ScrollView>
     </>
   );
