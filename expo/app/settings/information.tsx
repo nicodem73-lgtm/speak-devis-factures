@@ -11,7 +11,7 @@ import Constants from 'expo-constants';
 
 import React from "react";
 
-const APP_VERSION = Constants.expoConfig?.version ?? '1.1.2';
+const APP_VERSION = Constants.expoConfig?.version ?? '1.1.3';
 
 interface InfoItemProps {
   icon: React.ReactNode;
